@@ -38,8 +38,9 @@ A simple and efficient URL shortener built using **Node.js, Express, MongoDB, an
 
 ## ⚙️ Installation & Setup
 
-1️⃣ Clone the repository
+
 ```bash
+1️⃣ Clone the repository
 git clone https://github.com/your-username/url-shortener.git
 cd url-shortener
 
@@ -53,7 +54,7 @@ PORT=4000
 4️⃣ Run the server
 npm start
 
-🌐 Usage
+### 🌐 Usage
 Open browser and go to:
 http://localhost:4000
 
